@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:twitter_assets"
+      name = "twitter_assets">
+      <Group
+         location = "group:notification-icon.imageset"
+         name = "notification-icon.imageset">
+         <FileRef
+            location = "group:notification-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:notification-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:notification-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:moment-icon.imageset"
+         name = "moment-icon.imageset">
+         <FileRef
+            location = "group:momentIcon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:moment-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:moment-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:home-icon.imageset"
+         name = "home-icon.imageset">
+         <FileRef
+            location = "group:home-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:home-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:home-icon.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:selected-icon.imageset"
+         name = "selected-icon.imageset">
+         <FileRef
+            location = "group:twitter-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:twitter-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twitter-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:stat-icon.imageset"
+         name = "stat-icon.imageset">
+         <FileRef
+            location = "group:stat-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:stat-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:stat-icon.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:close-icon.imageset"
+         name = "close-icon.imageset">
+         <FileRef
+            location = "group:close-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:close-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:close-icon@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:reply-icon.imageset"
+         name = "reply-icon.imageset">
+         <FileRef
+            location = "group:reply-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:reply-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:reply-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:back-icon-white.imageset"
+         name = "back-icon-white.imageset">
+         <FileRef
+            location = "group:back-icon-white@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:back-icon-white@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:back-icon-white.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:favor-icon.imageset"
+         name = "favor-icon.imageset">
+         <FileRef
+            location = "group:favor-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:favor-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:favor-icon@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:favor-icon-red.imageset"
+         name = "favor-icon-red.imageset">
+         <FileRef
+            location = "group:favor-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:favor-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:favor-icon-red.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:TwitterLogoBlue.imageset"
+         name = "TwitterLogoBlue.imageset">
+         <FileRef
+            location = "group:Twitter_Logo_Blue-2.png">
+         </FileRef>
+         <FileRef
+            location = "group:Twitter_Logo_Blue-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:Twitter_Logo_Blue.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:account-icon.imageset"
+         name = "account-icon.imageset">
+         <FileRef
+            location = "group:account-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:account-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:account-icon@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:message-icon.imageset"
+         name = "message-icon.imageset">
+         <FileRef
+            location = "group:message-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:message-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:message-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:gif-icon.imageset"
+         name = "gif-icon.imageset">
+         <FileRef
+            location = "group:gif-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:gif-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:close-icon@2x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:profile-Icon.imageset"
+         name = "profile-Icon.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:profile-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:profile-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:profile-icon@2x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AppIcon.appiconset"
+         name = "AppIcon.appiconset">
+         <FileRef
+            location = "group:twiiter-logo-29@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-60@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-60@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-29@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-40@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-40@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-20@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:twiiter-logo-20@2x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:back-icon.imageset"
+         name = "back-icon.imageset">
+         <FileRef
+            location = "group:back-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:back-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:back-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:retweet-icon-green.imageset"
+         name = "retweet-icon-green.imageset">
+         <FileRef
+            location = "group:retweet-icon-green.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:retweet-icon-green@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:retweet-icon-green@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:camera-icon.imageset"
+         name = "camera-icon.imageset">
+         <FileRef
+            location = "group:camera-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:camera-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:camera-icon@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:edit-icon.imageset"
+         name = "edit-icon.imageset">
+         <FileRef
+            location = "group:edit-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:edit-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:edit-icon.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:retweet-icon.imageset"
+         name = "retweet-icon.imageset">
+         <FileRef
+            location = "group:retweet-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:retweet-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:retweet-icon.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:TwitterLogo.imageset"
+         name = "TwitterLogo.imageset">
+         <FileRef
+            location = "group:TwitterLogo.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:TwitterLogo@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:TwitterLogo@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:addfriend-icon.imageset"
+         name = "addfriend-icon.imageset">
+         <FileRef
+            location = "group:addfriend-icon@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:addfriend-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:addfriend-icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Twitter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
