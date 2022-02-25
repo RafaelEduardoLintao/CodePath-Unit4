@@ -49,9 +49,12 @@ class HomeTableTableViewController: UITableViewController {
         loadTweet()
         myRefreshControl.addTarget(self, action: #selector(loadTweet), for: .valueChanged)
         tableView.refreshControl = myRefreshControl
-        
-    
     }//end viewDidLoad
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        self.loadTweet()
+    }
     
     
     //Function that uses the API to load tweets
