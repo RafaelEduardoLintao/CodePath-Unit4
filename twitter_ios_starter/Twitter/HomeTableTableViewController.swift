@@ -49,7 +49,10 @@ class HomeTableTableViewController: UITableViewController {
         loadTweet()
         myRefreshControl.addTarget(self, action: #selector(loadTweet), for: .valueChanged)
         tableView.refreshControl = myRefreshControl
+        //self.tableView.rowHeight = UITableView.automaticDimension
+        //self.tableView.estimatedRowHeight = 150
     }//end viewDidLoad
+    
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
@@ -87,6 +90,8 @@ class HomeTableTableViewController: UITableViewController {
         return 1
     }//end numberOfSections
 
+    
+    
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return tweetArray.count
     }//end tableView
